@@ -1,14 +1,6 @@
 # Bank_Management_system
  A comprehensive banking system that includes various account types such as BankAccount, SavingsAccount, and CheckingAccount. It supports deposits, withdrawals, and balance tracking, with added functionalities like interest calculation for savings and overdraft limits for checking accounts. The system is designed to manage accounts efficiently while maintaining a user-friendly interface."
 
-
-Sure! Here's the updated **README.md** file without the License and Author sections:
-
-```markdown
-# Bank Management System
-
-A comprehensive and user-friendly banking system built in Python that supports various account types, including BankAccount, SavingsAccount, and CheckingAccount. The system allows for deposits, withdrawals, and balance management, with added functionalities such as interest calculation for savings and overdraft limits for checking accounts.
-
 ## Features
 
 - **BankAccount**: Basic banking functionalities such as deposit, withdrawal, and balance tracking.
