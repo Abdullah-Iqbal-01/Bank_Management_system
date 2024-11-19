@@ -1,0 +1,2 @@
+# Bank_Management_system
+ A comprehensive banking system that includes various account types such as BankAccount, SavingsAccount, and CheckingAccount. It supports deposits, withdrawals, and balance tracking, with added functionalities like interest calculation for savings and overdraft limits for checking accounts. The system is designed to manage accounts efficiently while maintaining a user-friendly interface."
